@@ -7,7 +7,7 @@ const ConfirmarAsistencia = () => {
   const [mensaje, setMensaje] = useState("");
   const [asistencia, setAsistencia] = useState("asistiré");
 
-  const numeroWpp = "5493794355420"; // 📞 ← Reemplazá con el número real de WhatsApp
+  const numeroWpp = "5493794355420"; // 📞 ← Numereo de mica
 
   const enviarMensaje = () => {
     if (!nombre.trim()) {
