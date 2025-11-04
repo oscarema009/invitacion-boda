@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/invitacion-boda/static/css/main.66151ff3.css",
+    "main.js": "/invitacion-boda/static/js/main.6addc6f4.js",
+    "static/js/453.16915a02.chunk.js": "/invitacion-boda/static/js/453.16915a02.chunk.js",
+    "static/media/boda.mp3": "/invitacion-boda/static/media/boda.24c4e34fba1363a59c94.mp3",
+    "static/media/micaynico.png": "/invitacion-boda/static/media/micaynico.13ddaa7f053bc401c0c1.png",
+    "static/media/foto3.jpg": "/invitacion-boda/static/media/foto3.83f4037e04de5d19c05a.jpg",
+    "static/media/foto2.jpg": "/invitacion-boda/static/media/foto2.d698bda50bbe83353e93.jpg",
+    "static/media/sintexto.jpg": "/invitacion-boda/static/media/sintexto.988e4144e4afb8bf7b66.jpg",
+    "static/media/foto1.jpg": "/invitacion-boda/static/media/foto1.4bcd36b145d3dc2e9aa4.jpg",
+    "index.html": "/invitacion-boda/index.html",
+    "main.66151ff3.css.map": "/invitacion-boda/static/css/main.66151ff3.css.map",
+    "main.6addc6f4.js.map": "/invitacion-boda/static/js/main.6addc6f4.js.map",
+    "453.16915a02.chunk.js.map": "/invitacion-boda/static/js/453.16915a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66151ff3.css",
+    "static/js/main.6addc6f4.js"
+  ]
+}
