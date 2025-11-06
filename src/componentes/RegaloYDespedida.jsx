@@ -3,7 +3,7 @@ import { Copy } from "lucide-react";
 
 export default function RegaloYDespedida() {
   const [copiado, setCopiado] = useState(false);
-  const alias = "NICO.MINO.BBVA";
+  const alias = "BODA.MYN.BBVA";
 
   const copiarAlias = () => {
     navigator.clipboard.writeText(alias);
@@ -15,14 +15,14 @@ export default function RegaloYDespedida() {
     <section className="flex flex-col items-center justify-center py-16 px-6 text-center bg-gradient-to-b from-white to-blue-50">
       {/* 🌸 Título */}
       <h2 className="text-2xl md:text-3xl font-bold text-gray-800 mb-4">
-        Colabora con un Regalo
+        Si desean hacernos un Obsequio
       </h2>
 
       {/* 💬 Frase cálida */}
       <p className="text-gray-600 max-w-md mb-8">
-        Si desean acompañarnos con un regalo, su presencia será siempre el
-        mejor obsequio. Pero si quisieran colaborar con nosotros, dejamos
-        nuestros datos bancarios con mucho cariño 💙.
+        Tu presencia será siempre el mejor regalo. 
+        Pero si quisieras colaborar con nosotros, 
+        dejamos nuestros datos bancarios con mucho cariño.
       </p>
 
       {/* 💳 Recuadro de datos bancarios */}
@@ -44,7 +44,7 @@ export default function RegaloYDespedida() {
             className="flex items-center gap-1 text-gray-800 hover:text-blue-600 transition"
           >
             <span className="font-semibold">{alias}</span>
-            <Copy size={16} />
+            <Copy size={12} />
           </button>
         </div>
       </div>
